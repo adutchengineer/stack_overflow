@@ -7,12 +7,14 @@ As a heavy user of StackOverflow, I see plenty of articles and sometimes I see t
 ## Files 
 <br>
 Project_2.ipynb <br>
+StackOverflow.pdf <br>
+StackOverflow.json <br>
 README.md <br>
 License <br>
 geocoded <br>
 ----- Batch_geocoding.ipynb - converting address strings to locations	<br>
 ----- locations.csv input file of Batch_geocoding.ipynb <br>
------ geocoding_locations.csv - output file of Batch_geocoding.ipynb<br>
+----- geocoding_locations.csv - output file of Batch_geocoding.ipynb <br>
 ----- geocoding_locations.csv_bak - back-up file <br>
 Data <br>
 ----- Query <br>
